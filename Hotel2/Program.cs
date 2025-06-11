@@ -13,5 +13,7 @@ namespace git
         public string HotelImage { get; set; }
 
 
+
+
     }
 }
